@@ -908,3 +908,12 @@ a:hover {
   display: block;
   margin-bottom: 7px;
 }
+
+.global-title {
+  font-size: 75px;
+  text-align: center;
+  color: yellow;
+  top: 68px;
+  position: relative;
+  font-weight: bold;
+}
